@@ -7,7 +7,7 @@
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-2.19.0-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)](https://opensearch.org)
 [![LangSmith](https://img.shields.io/badge/LangSmith-Latest-5F66F6?style=for-the-badge&logo=langchain&logoColor=white)](https://smith.langchain.com/)
 [![Docker](https://img.shields.io/badge/Docker-Latest-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
+[![uv](https://img.shields.io/badge/uv-Latest-FA6E32?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)
 
 > **A production-grade RAG system for TensorFlow documentation that thinks, plans, and delivers—no hand-holding required.**
 
