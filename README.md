@@ -1,6 +1,14 @@
 # ChatTensorFlow 🔗
 
-**A production-grade RAG system for TensorFlow documentation that thinks, plans, and delivers—no hand-holding required.**
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688.svg)](https://fastapi.tiangolo.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Latest-FF6B6B.svg)](https://github.com/langchain-ai/langgraph)
+[![Apache Airflow](https://img.shields.io/badge/Airflow-2.10.4-017CEE.svg)](https://airflow.apache.org)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-2.19.0-005EB8.svg)](https://opensearch.org)
+[![LangSmith](https://img.shields.io/badge/LangSmith-Latest-5F66F6.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://smith.langchain.com/)
+[![Docker](https://img.shields.io/badge/Docker-Latest-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+> **A production-grade RAG system for TensorFlow documentation that thinks, plans, and delivers—no hand-holding required.**
 
 Most RAG implementations answer questions. ChatTensorFlow understands them. We built an intelligent assistant that routes queries, plans research strategies, and streams answers with proper citations—backed by a self-sustaining pipeline that keeps your knowledge fresh while you sleep.
 
